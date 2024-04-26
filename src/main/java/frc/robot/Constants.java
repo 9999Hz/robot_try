@@ -16,4 +16,12 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
   }
+
+  public static final class IntakeConstants {
+    public static final double turnIntakeMotorCaNcoderConfigurationOffset = 0;
+
+    public static final double kp = 0;
+    public static final double ki = 0;
+    public static final double kd = 0;
+  }
 }
